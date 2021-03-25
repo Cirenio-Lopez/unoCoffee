@@ -1,5 +1,5 @@
-#**Uno Coffee!**
------------
+**Uno Coffee!**
+=============
 Uno Coffee is the American shedding-type card game made using Java. The game is played through a terminal/command prompt and allows 2 to 5 players to participate.
 
  - The game only utilizes the provided **java utilities** and provides users with instructions throughout the game.
